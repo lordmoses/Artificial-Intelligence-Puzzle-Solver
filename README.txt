@@ -7,7 +7,8 @@ This is a program that solves any 3X3 Slide Puzzle.
 Given any solvable configuration of the 3X3 Slide Puzzle, 
 this program is able to solve it  at the most EFFICIENT time and memory space.
 
-I implemented the AI engine using a Recursive Best First Search Algorithm, using a modified manhattan distance strategy as a heuristic.
+I implemented the AI engine using a Recursive Best First Search Algorithm, 
+using a modified manhattan distance strategy as a heuristic.
 
 
 Also included are sample input files (specifying puzzle initial configuration), 
